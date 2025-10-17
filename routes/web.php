@@ -9,3 +9,9 @@ Route::get('/', function () {
 Route::get('/home', function () {
     return view('home');
 });
+
+// Route::view("/about", "about");
+Route::get("/about/{name}", function($name){
+    echo $name;
+    return view("about",["name" => $name]);
+});
