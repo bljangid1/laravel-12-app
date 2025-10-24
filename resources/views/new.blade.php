@@ -1,0 +1,1 @@
+<h1>This is redirect example when i click on home page then it redirect to this page not on home page</h1>

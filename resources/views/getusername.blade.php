@@ -1,0 +1,1 @@
+<h1>This is get username view page</h1>
